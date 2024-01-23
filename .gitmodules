@@ -1,5 +1,5 @@
-[submodule "main"]
-	path = main
+[submodule "python-encryption-and-encoding"]
+	path = python-encryption-and-encoding
 	url = https://github.com/slliks4/python-encryption-and-encoding.git
 [submodule "pythonList"]
 	path = pythonList
