@@ -4,3 +4,6 @@
 [submodule "pythonList"]
 	path = pythonList
 	url = https://github.com/slliks4/Python-list.git
+[submodule "pythonRecursion"]
+	path = pythonRecursion
+	url = https://github.com/slliks4/Python-Recursion.git
