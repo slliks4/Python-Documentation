@@ -10,3 +10,6 @@
 [submodule "pythonDataStructure"]
 	path = pythonDataStructure
 	url = https://github.com/slliks4/Python-DataStructure.git
+[submodule "python-regular-expression"]
+	path = python-regular-expression
+	url = https://github.com/slliks4/Python-RE.git
